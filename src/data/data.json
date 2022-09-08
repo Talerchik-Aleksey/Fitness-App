@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1000,
+    "activityType": "Yoga",
+    "image": "../../public/imgs/NewProgrammBack.jpg",
+    "title": "10 minutes of stretching with Anna Miller",
+    "minutes": 10,
+    "calories": 329,
+    "difficult": "easy",
+    "category": "Special",
+    "inPage": {
+      "title": "Lorem",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor tellus non risus feugiat tincidunt. Fusce feugiat, tellus a lobortis cursus, mauris ligula gravida leo, ut consequat tortor urna eu nisl. Mauris placerat nunc nec nibh varius dictum. Fusce aliquet lacus ac turpis lacinia varius. Duis condimentum lectus diam, sed elementum augue ullamcorper et. Phasellus luctus, purus vitae bibendum auctor, diam velit scelerisque massa, sit amet facilisis tellus nunc eu augue. Nunc imperdiet ex eros, vel elementum metus vestibulum ac. Mauris eu orci quis felis vestibulum sagittis. Ut scelerisque justo turpis. Curabitur fermentum ex nulla. Quisque a eros non sapien molestie semper.",
+      "video": "../../video/yoga.mp4"
+    }
+  },
+
+  {
+    "id": 1001,
+    "activityType": "Yoga",
+    "image": "imgs/ForYouBack.svg",
+    "title": "10 minutes of stretching with Anna Miller",
+    "minutes": 10,
+    "calories": 329,
+    "difficult": "easy",
+    "category": "New",
+    "inPage": {
+      "title": "Lorem",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor tellus non risus feugiat tincidunt. Fusce feugiat, tellus a lobortis cursus, mauris ligula gravida leo, ut consequat tortor urna eu nisl. Mauris placerat nunc nec nibh varius dictum. Fusce aliquet lacus ac turpis lacinia varius. Duis condimentum lectus diam, sed elementum augue ullamcorper et. Phasellus luctus, purus vitae bibendum auctor, diam velit scelerisque massa, sit amet facilisis tellus nunc eu augue. Nunc imperdiet ex eros, vel elementum metus vestibulum ac. Mauris eu orci quis felis vestibulum sagittis. Ut scelerisque justo turpis. Curabitur fermentum ex nulla. Quisque a eros non sapien molestie semper.\nQuisque diam elit, molestie ac interdum et, vehicula at massa. Pellentesque consectetur blandit dolor sed tempus. Proin eu massa accumsan, iaculis augue sed, varius nisi. Morbi semper neque a hendrerit venenatis. Nam turpis augue, consectetur sed tempor ac, dapibus iaculis enim. Suspendisse in metus a felis blandit luctus eu non augue. Donec in nisl et quam convallis eleifend. Phasellus posuere dolor nibh, at dignissim magna tincidunt et. Aliquam feugiat porttitor ipsum, eu blandit nisi facilisis sed. Aenean lacinia magna est, non lacinia metus suscipit quis. Quisque ac turpis ex. Etiam in purus leo. Nam tortor lorem, tempus feugiat orci non, efficitur placerat felis. Morbi placerat eros sed nibh elementum rhoncus at in libero. Maecenas nec ligula id purus rutrum eleifend eu et massa. Curabitur scelerisque eu risus ut rutrum.\nFusce gravida purus eu mi dignissim, eu finibus est consectetur. Maecenas gravida libero id scelerisque posuere. Phasellus augue est, tempus at sapien eu, lacinia blandit mauris. Nulla facilisi. Integer risus erat, eleifend at quam nec, semper mollis ligula. In posuere porta quam, eget volutpat metus venenatis sit amet. Suspendisse potenti. Cras ac metus elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque gravida lacus eget libero facilisis, et bibendum est cursus.\nIn quis mollis dui. Nulla vel ultrices felis. Vivamus rutrum arcu lacus, vel fringilla dolor porttitor eget. Integer ullamcorper ante nec nunc semper, fermentum faucibus metus scelerisque. Duis ut rhoncus augue. Pellentesque nec vestibulum neque. Integer luctus, elit ac elementum condimentum, urna purus porttitor nisl, et dictum nunc lectus eu purus. Proin dolor augue, dictum eget gravida quis, cursus tempus lectus.\nVivamus tortor massa, porttitor placerat lacus et, dapibus blandit diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean dictum vulputate magna, eu maximus augue pulvinar eget. Nullam sagittis efficitur odio, vitae aliquam dui facilisis vel. Etiam dui felis, rhoncus a est vitae, tristique varius lacus. Maecenas eros eros, gravida quis purus et, lobortis efficitur enim. Donec cursus odio vel orci finibus semper. Ut pharetra dignissim enim, at pretium justo bibendum id. Maecenas id ipsum magna. Integer efficitur turpis eget nibh condimentum rhoncus. Proin in urna condimentum, accumsan magna non, pulvinar elit. Nullam purus lacus, posuere quis mauris sit amet, pulvinar semper nisl. Mauris pretium, ipsum sed pharetra eleifend, felis ante mollis massa, et tempus nisi turpis non erat.",
+      "video": ""
+    }
+  },
+
+  {
+    "id": 1002,
+    "activityType": "Meditation",
+    "image": "imgs/1.jpg",
+    "title": "10 minutes of stretching with Anna Miller",
+    "minutes": 10,
+    "calories": 329,
+    "difficult": "easy",
+    "category": "New",
+    "inPage": {
+      "title": "Lorem",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor tellus non risus feugiat tincidunt. Fusce feugiat, tellus a lobortis cursus, mauris ligula gravida leo, ut consequat tortor urna eu nisl. Mauris placerat nunc nec nibh varius dictum. Fusce aliquet lacus ac turpis lacinia varius. Duis condimentum lectus diam, sed elementum augue ullamcorper et. Phasellus luctus, purus vitae bibendum auctor, diam velit scelerisque massa, sit amet facilisis tellus nunc eu augue. Nunc imperdiet ex eros, vel elementum metus vestibulum ac. Mauris eu orci quis felis vestibulum sagittis. Ut scelerisque justo turpis. Curabitur fermentum ex nulla. Quisque a eros non sapien molestie semper.\nQuisque diam elit, molestie ac interdum et, vehicula at massa. Pellentesque consectetur blandit dolor sed tempus. Proin eu massa accumsan, iaculis augue sed, varius nisi. Morbi semper neque a hendrerit venenatis. Nam turpis augue, consectetur sed tempor ac, dapibus iaculis enim. Suspendisse in metus a felis blandit luctus eu non augue. Donec in nisl et quam convallis eleifend. Phasellus posuere dolor nibh, at dignissim magna tincidunt et. Aliquam feugiat porttitor ipsum, eu blandit nisi facilisis sed. Aenean lacinia magna est, non lacinia metus suscipit quis. Quisque ac turpis ex. Etiam in purus leo. Nam tortor lorem, tempus feugiat orci non, efficitur placerat felis. Morbi placerat eros sed nibh elementum rhoncus at in libero. Maecenas nec ligula id purus rutrum eleifend eu et massa. Curabitur scelerisque eu risus ut rutrum.\nFusce gravida purus eu mi dignissim, eu finibus est consectetur. Maecenas gravida libero id scelerisque posuere. Phasellus augue est, tempus at sapien eu, lacinia blandit mauris. Nulla facilisi. Integer risus erat, eleifend at quam nec, semper mollis ligula. In posuere porta quam, eget volutpat metus venenatis sit amet. Suspendisse potenti. Cras ac metus elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque gravida lacus eget libero facilisis, et bibendum est cursus.\nIn quis mollis dui. Nulla vel ultrices felis. Vivamus rutrum arcu lacus, vel fringilla dolor porttitor eget. Integer ullamcorper ante nec nunc semper, fermentum faucibus metus scelerisque. Duis ut rhoncus augue. Pellentesque nec vestibulum neque. Integer luctus, elit ac elementum condimentum, urna purus porttitor nisl, et dictum nunc lectus eu purus. Proin dolor augue, dictum eget gravida quis, cursus tempus lectus.\nVivamus tortor massa, porttitor placerat lacus et, dapibus blandit diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean dictum vulputate magna, eu maximus augue pulvinar eget. Nullam sagittis efficitur odio, vitae aliquam dui facilisis vel. Etiam dui felis, rhoncus a est vitae, tristique varius lacus. Maecenas eros eros, gravida quis purus et, lobortis efficitur enim. Donec cursus odio vel orci finibus semper. Ut pharetra dignissim enim, at pretium justo bibendum id. Maecenas id ipsum magna. Integer efficitur turpis eget nibh condimentum rhoncus. Proin in urna condimentum, accumsan magna non, pulvinar elit. Nullam purus lacus, posuere quis mauris sit amet, pulvinar semper nisl. Mauris pretium, ipsum sed pharetra eleifend, felis ante mollis massa, et tempus nisi turpis non erat.",
+      "video": ""
+    }
+  },
+
+  {
+    "id": 1003,
+    "activityType": "Yoga",
+    "image": "imgs/2.jpg",
+    "title": "10 minutes of stretching with Anna Miller",
+    "minutes": 10,
+    "calories": 329,
+    "difficult": "easy",
+    "category": "New",
+    "inPage": {
+      "title": "Lorem",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor tellus non risus feugiat tincidunt. Fusce feugiat, tellus a lobortis cursus, mauris ligula gravida leo, ut consequat tortor urna eu nisl. Mauris placerat nunc nec nibh varius dictum. Fusce aliquet lacus ac turpis lacinia varius. Duis condimentum lectus diam, sed elementum augue ullamcorper et. Phasellus luctus, purus vitae bibendum auctor, diam velit scelerisque massa, sit amet facilisis tellus nunc eu augue. Nunc imperdiet ex eros, vel elementum metus vestibulum ac. Mauris eu orci quis felis vestibulum sagittis. Ut scelerisque justo turpis. Curabitur fermentum ex nulla. Quisque a eros non sapien molestie semper.\nQuisque diam elit, molestie ac interdum et, vehicula at massa. Pellentesque consectetur blandit dolor sed tempus. Proin eu massa accumsan, iaculis augue sed, varius nisi. Morbi semper neque a hendrerit venenatis. Nam turpis augue, consectetur sed tempor ac, dapibus iaculis enim. Suspendisse in metus a felis blandit luctus eu non augue. Donec in nisl et quam convallis eleifend. Phasellus posuere dolor nibh, at dignissim magna tincidunt et. Aliquam feugiat porttitor ipsum, eu blandit nisi facilisis sed. Aenean lacinia magna est, non lacinia metus suscipit quis. Quisque ac turpis ex. Etiam in purus leo. Nam tortor lorem, tempus feugiat orci non, efficitur placerat felis. Morbi placerat eros sed nibh elementum rhoncus at in libero. Maecenas nec ligula id purus rutrum eleifend eu et massa. Curabitur scelerisque eu risus ut rutrum.\nFusce gravida purus eu mi dignissim, eu finibus est consectetur. Maecenas gravida libero id scelerisque posuere. Phasellus augue est, tempus at sapien eu, lacinia blandit mauris. Nulla facilisi. Integer risus erat, eleifend at quam nec, semper mollis ligula. In posuere porta quam, eget volutpat metus venenatis sit amet. Suspendisse potenti. Cras ac metus elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque gravida lacus eget libero facilisis, et bibendum est cursus.\nIn quis mollis dui. Nulla vel ultrices felis. Vivamus rutrum arcu lacus, vel fringilla dolor porttitor eget. Integer ullamcorper ante nec nunc semper, fermentum faucibus metus scelerisque. Duis ut rhoncus augue. Pellentesque nec vestibulum neque. Integer luctus, elit ac elementum condimentum, urna purus porttitor nisl, et dictum nunc lectus eu purus. Proin dolor augue, dictum eget gravida quis, cursus tempus lectus.\nVivamus tortor massa, porttitor placerat lacus et, dapibus blandit diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean dictum vulputate magna, eu maximus augue pulvinar eget. Nullam sagittis efficitur odio, vitae aliquam dui facilisis vel. Etiam dui felis, rhoncus a est vitae, tristique varius lacus. Maecenas eros eros, gravida quis purus et, lobortis efficitur enim. Donec cursus odio vel orci finibus semper. Ut pharetra dignissim enim, at pretium justo bibendum id. Maecenas id ipsum magna. Integer efficitur turpis eget nibh condimentum rhoncus. Proin in urna condimentum, accumsan magna non, pulvinar elit. Nullam purus lacus, posuere quis mauris sit amet, pulvinar semper nisl. Mauris pretium, ipsum sed pharetra eleifend, felis ante mollis massa, et tempus nisi turpis non erat.",
+      "video": ""
+    }
+  }
+]
